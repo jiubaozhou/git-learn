@@ -11,5 +11,5 @@ int sub(int a,int b){
 
 int main(int argc, const char * argv[]) {
     
-
+    return 1;
 }
